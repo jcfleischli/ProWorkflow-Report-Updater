@@ -1,0 +1,62 @@
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csprojResolveAssemblyReference.cache
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Form1.resources
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Properties.Resources.resources
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csproj.GenerateResource.Cache
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe.config
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.pdb
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\RestSharp.dll
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.dll
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.dll
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.xml
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.xml
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.exe
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.pdb
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe.manifest
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.application
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.exe.manifest
+C:\Users\John Fleischli\Documents\Visual Studio 2017\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.application
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe.config
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.pdb
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.dll
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.dll
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\RestSharp.dll
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.dll
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.dll
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.xml
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.xml
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.xml
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.xml
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csprojResolveAssemblyReference.cache
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Form1.resources
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Properties.Resources.resources
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csproj.GenerateResource.Cache
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.exe
+S:\Visual Studio\Projects\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.pdb
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe.config
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe.manifest
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.application
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.exe
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\PWF Report Updater.pdb
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\RestSharp.dll
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.dll
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.dll
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\SpreadsheetLight.xml
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\bin\Debug\System.ValueTuple.xml
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csprojResolveAssemblyReference.cache
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Form1.resources
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF_Report_Updater.Properties.Resources.resources
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.csproj.GenerateResource.Cache
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.exe.manifest
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.application
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.exe
+C:\Users\John Fleischli\Documents\PWF Report Updater\PWF Report Updater\obj\Debug\PWF Report Updater.pdb
